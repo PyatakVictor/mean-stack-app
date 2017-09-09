@@ -1,0 +1,25 @@
+{
+  "name": "mean-stack-app",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[B",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyatakVictor/mean-stack-app.git"
+  },
+  "author": "pyavic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyatakVictor/mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/PyatakVictor/mean-stack-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "crypto": "^1.0.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  }
+}
